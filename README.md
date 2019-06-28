@@ -1,5 +1,5 @@
 # Lumus
 
-#### A prototype of light transmission with Arduino.
+#### A prototype of data transmission through light using Arduino.
 
 * Two Arduino is required.
